@@ -1,4 +1,5 @@
 # JN
-Jupyter Notebook work
 
-this is a place for my notebooks in progress
+Jupyter Notebook workblog
+
+this is a place for my sketches, notes, posts, etc.     works in progress
